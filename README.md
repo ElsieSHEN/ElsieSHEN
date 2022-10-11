@@ -1,4 +1,4 @@
-- 👋 Hi, I am Yaling (Elsie) Shen.
+- 👋 Hi, I am Elsie.
 - 👀 My research interests include Natural Language Processing and Data Analytics.
 - 🌱 I’m currently a master student at Technical University of Munich.
 
